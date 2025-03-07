@@ -1,0 +1,40 @@
+Name: Jianchen Liu
+USC ID: 8300382104
+News site crawled: nytimes.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 19656
+# fetches failed or aborted: 344
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2748508
+# unique URLs extracted: 190363
+# unique URLs within News Site: 76897
+# unique URLs outside News Site: 113466
+
+Status Codes:
+=============
+400: 9
+403 Forbidden: 1
+404 Not Found: 7
+200 OK: 19656
+504: 13
+410: 15
+301 Moved Permanently: 299
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 8
+10KB ~ <100KB: 104
+100KB ~ <1MB: 18832
+>= 1MB: 706
+
+Content Types:
+==============
+image/png: 6
+text/html: 19645
